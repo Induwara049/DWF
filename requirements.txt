@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+sckit-learn
+gym 
+torch 
+stable-baselines3
+shimmy>=2
+pyarrow
+duckdb
