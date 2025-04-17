@@ -1,9 +1,10 @@
+gymnasium==0.29.1
+stable-baselines3==2.6.0
 pandas
 numpy
 matplotlib
 seaborn
 sckit-learn
-gym 
 torch 
 stable-baselines3
 shimmy>=2
